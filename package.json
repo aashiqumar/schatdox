@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Running tests...\" && exit 0",
-    "start": "nodemon index.js"
+    "start": "npm start"
   },
   "keywords": [],
   "author": "",
